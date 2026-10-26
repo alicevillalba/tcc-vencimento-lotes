@@ -1,0 +1,4 @@
+variante,prob_media_prevista,taxa_real_vencidos,auc_roc,brier,log_loss
+Com SMOTE (bruto),0.4923,0.1945,0.5882,0.2441,0.6812
+Com SMOTE (corrigido),0.1946,0.1945,0.5882,0.1544,0.4853
+Sem SMOTE,0.1946,0.1945,0.5893,0.1544,0.4852

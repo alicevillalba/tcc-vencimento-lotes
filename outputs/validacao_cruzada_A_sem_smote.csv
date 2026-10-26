@@ -1,0 +1,4 @@
+modelo,auc_roc_media,auc_roc_desvio,auc_pr_media,auc_pr_desvio,brier_media,brier_desvio
+Regressão Logística,0.5886,0.0084,0.249,0.0076,0.1542,0.0004
+Random Forest,0.5846,0.0089,0.2453,0.0062,0.1549,0.0002
+XGBoost,0.5873,0.0099,0.2479,0.0069,0.1544,0.0004

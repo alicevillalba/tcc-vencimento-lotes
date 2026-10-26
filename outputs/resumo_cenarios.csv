@@ -1,0 +1,8 @@
+cenario,descricao,melhor_modelo,auc_roc,auc_roc_ic95,auc_pr,f1,brier,brier_referencia,auc_roc_baseline_fefo
+A,Reais (estoque + condição),Regressão Logística,0.5882,[0.578; 0.597],0.2426,0.3436,0.1544,0.1567,0.5048
+A-estoque,Reais (só estoque),Regressão Logística,0.5187,[0.509; 0.529],0.2059,0.3236,0.1566,0.1567,0.5048
+A-sem-FEFO,"Reais, sem variáveis do baseline",Regressão Logística,0.5895,[0.580; 0.599],0.2437,0.3435,0.1543,0.1567,0.5048
+A-temporal,"Reais, teste em período posterior",Regressão Logística,0.5885,[0.579; 0.597],0.2501,0.3451,0.1564,0.1588,0.5094
+A-temporal (produtos novos),"Reais, período posterior, só produtos novos",Regressão Logística,0.5827,[0.564; 0.604],0.2632,0.3487,0.1615,0.1639,0.5022
+B,Sintéticos (mecanismo conhecido),XGBoost,0.9822,[0.975; 0.989],0.935,0.8607,0.0418,0.1595,0.8006
+C,Reais + sintéticos (teste só reais),Regressão Logística,0.515,[0.505; 0.526],0.2035,0.3221,0.157,0.1567,0.5048

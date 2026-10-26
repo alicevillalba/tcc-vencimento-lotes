@@ -1,0 +1,4 @@
+modelo,auc_roc_busca,hiperparametros
+Regressão Logística,0.5944,{'C': np.float64(0.0012087541473056963)}
+Random Forest,0.5906,"{'n_estimators': 200, 'min_samples_leaf': 20, 'max_features': 'sqrt', 'max_depth': 4}"
+XGBoost,0.5931,"{'subsample': 0.7, 'n_estimators': 400, 'min_child_weight': 50, 'max_depth': 2, 'learning_rate': 0.01, 'colsample_bytree': 0.8}"

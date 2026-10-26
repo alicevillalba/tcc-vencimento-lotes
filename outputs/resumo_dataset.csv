@@ -1,0 +1,14 @@
+item,valor
+Lotes (registros),100000
+Produtos distintos,45301
+Lotes por produto (média),2.21
+Lotes por produto (máximo),16
+Produtos com mais de um lote (%),63.6
+Categorias,10
+Lojas,50
+Período (início),2023-01-01
+Período (fim),2024-12-31
+Lotes vencidos,19442
+Lotes vencidos (%),19.4
+Lotes farmacêuticos,10120
+Lotes farmacêuticos vencidos (%),20.7

@@ -1,0 +1,37 @@
+variavel,auc_univariada,forca_relacao,situacao
+waste_cost,0.802,0.302,excluída: vazamento
+units_wasted,0.801,0.301,excluída: vazamento
+waste_pct,0.786,0.286,excluída: vazamento
+profit_margin_pct,0.295,0.205,excluída: vazamento
+profit,0.362,0.138,excluída: vazamento
+units_sold,0.405,0.095,excluída: vazamento
+spoilage_risk,0.594,0.094,excluída: escore sem documentação
+packaging_score,0.436,0.064,usada: condição
+revenue,0.454,0.046,excluída: vazamento
+handling_score,0.459,0.041,usada: condição
+markdown_applied,0.534,0.034,excluída: decisão posterior
+discount_pct,0.533,0.033,excluída: decisão posterior
+temp_deviation,0.53,0.03,usada: condição
+spoilage_sensitivity,0.527,0.027,usada: estoque
+distribution_hours,0.521,0.021,usada: condição
+category_enc,0.519,0.019,usada: categoria
+urgencia_vencimento,0.519,0.019,usada: derivada
+temp_abuse_events,0.518,0.018,usada: condição
+days_remaining_at_purchase,0.482,0.018,excluída: redundante
+days_until_expiry,0.483,0.017,usada: estoque
+giro_estoque,0.484,0.016,usada: derivada
+cost_price,0.515,0.015,não usada
+shelf_life_days,0.485,0.015,excluída: redundante
+base_price,0.515,0.015,não usada
+daily_demand,0.513,0.013,usada: estoque
+risco_acumulado,0.506,0.006,usada: derivada
+day_of_week,0.504,0.004,não usada
+demand_variability,0.504,0.004,usada: estoque
+selling_price,0.503,0.003,excluída: decisão posterior
+is_weekend,0.502,0.002,não usada
+supplier_score,0.502,0.002,usada: condição
+initial_quantity,0.498,0.002,usada: estoque
+storage_temp,0.499,0.001,usada: condição
+record_id,0.501,0.001,excluída: identificador
+is_promoted,0.501,0.001,usada: condição
+month,0.5,0.0,não usada

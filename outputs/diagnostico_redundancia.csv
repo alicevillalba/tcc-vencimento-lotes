@@ -1,0 +1,7 @@
+variavel_1,variavel_2,correlacao
+shelf_life_days,days_remaining_at_purchase,0.992
+shelf_life_days,days_until_expiry,0.992
+days_remaining_at_purchase,days_until_expiry,1.0
+base_price,cost_price,0.986
+base_price,selling_price,0.996
+cost_price,selling_price,0.982

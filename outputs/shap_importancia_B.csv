@@ -1,0 +1,10 @@
+variavel,importancia_media_abs,participacao_%
+daily_demand,2.9673,67.6266
+risco_acumulado,1.168,26.619
+days_until_expiry,0.109,2.4847
+giro_estoque,0.0809,1.8445
+demand_variability,0.0555,1.2639
+initial_quantity,0.0059,0.1343
+urgencia_vencimento,0.0012,0.027
+spoilage_sensitivity,0.0,0.0
+category_enc,0.0,0.0

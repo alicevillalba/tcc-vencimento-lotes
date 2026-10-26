@@ -1,0 +1,7 @@
+variavel,media_real,media_sintetico,mediana_real,mediana_sintetico,ks
+initial_quantity,254.74,256.635,254.0,255.0,0.012
+daily_demand,1.915,1.909,1.0,1.0,0.03
+demand_variability,0.3,0.299,0.3,0.3,0.008
+days_until_expiry,316.631,317.33,316.0,319.0,0.012
+spoilage_sensitivity,0.85,0.85,0.85,0.85,0.0
+was_spoiled,0.207,0.207,0.0,0.0,0.0
